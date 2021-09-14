@@ -1,0 +1,458 @@
+---
+title: "Genetic Improvement and Chemical Cjharacterisation of Garri Quality of Cassava"
+author: "Chinedozi"
+date: "9/14/2021"
+output: word_document
+fontsize: 12pt
+
+---
+
+```{r setup, include=FALSE}
+
+```
+
+# Physicochemical characterization and genetic improvement of garri quality of cassava
+
+## Introduction
+
+Cassava (Manihot esculenta Crantz) is a major staple food for millions of people in tropical Africa, South America, and Asia (Halsey et al., 2008). It is grown for its carbohydrate-rich roots (Ceballos et al., 2004). The roots are a source of industrial raw materials in the production of starch and bioethanol (Jansson et al., 2009). The leaves are eaten as green vegetables, and are an excellent source of protein and vitamins A and B. The leaves and tubers can be used as animal feed. Cassava is drought tolerant and can grow well even on soils with low fertility (IITA, 2015). It grows on all soil types making it available in all parts of the country and all seasons. 
+
+Cassava is widely grown in tropical and subtropical regions of Africa, Malaysia, Madagascar, Indonesia, India, Thailand, and the Philippines. Africa is the highest producer of cassava, with a productivity of 169,673,737 tonnes in 2018 (FAOSTAT, 2019). Nigeria is the world's largest producer of cassava in Africa, with a production of 59,475,202 tonnes in 2018 (FAOSTAT, 2019).
+
+Breeders are working to improve agronomic, yield, and micronutrient content of cassava. Cassava is a food security crop and can be a source of nutrition and income to the poor (Rabbi, I.Y et al., 2014, Bechoff et al., 2018). Over the years, improved varieties have been developed by breeders and released to local farmers. These released varieties were improved to be resistant to pests and diseases, drought tolerant, high yielding, early maturing, and are fortified with micronutrients. There has been limited acceptance of the improved varieties despite the efforts of the breeders (Owusu and Donkor 2012). Farmers may not like the released cassava varieties unless they have quality attributes of interest (Asrat et al. 2010). The adoption of improved varieties by smallholder farmers is low.
+
+
+## Justification
+
+Most released varieties have a low acceptance rate for lack of end-users preferred traits. Breeders focus on yield and disease resistance, and now nutritional quality (beta carotene), which might not be good indicators of end-user preferences. Most improvement evaluations by breeders are carried out on fresh roots and not on end products. Farmers end up rejecting the varieties that do not meet their preferences. Breeders need to breed varieties that will be adopted. There is a gap in our knowledge of garri quality. It is unknown if the observed differences in garri quality is a result of the processing methods, the genotypes, the growth environment, or the interaction of some or all these factors.
+
+## Objectives
+
+The Objectives of the study are:
+1.	Develop NIRS calibration for select physiochemical compositions for high throughput evaluation.
+2.	Product profiling (color, flavor, taste, and texture) of both garri and eba (derived from garri).
+3.	Estimate genotype by environment interaction and heritability of garri quality
+4.	Determine the relationship between cassava genotypes and processed garri / eba 
+5.	Determine the relationship between farmers’ evaluation and researchers’ evaluation.
+6.	Determine the effect of cassava genotypes on garri shelf life. 
+
+## outline
+Cassava origin 
+Biology of cassava
+Environmental requirement
+Chemical composition
+Cassava have a large variation of the qualitative traits, such as variation in physicochemical properties and starch characteristics [1], variation of macronutrient content of fat and crude protein and variation in micronutrient of carotene, Fe, Na, K, Cu, and Zn, and vitamins [2,3,4], variation in dry matter, amylose, starch and resistant starch content [9 
+
+
+## Hydrogen cyanide
+
+Importance and uses of cassava
+Recently there is an increasing demand for quality products processed from fresh cassava such as gari, flour, dough, starch and alcohol. This has enhanced the production of cassava because farmers have ready market for their produce. Latah 2016 
+
+## Importance of garri
+
+Different users of the crop and product specific attributes depending on their position in the food chain. (Efisue et al., 2008; Orr et al., 2018). Different groups of consumers prefer different sensory attributes of gari. Therefore it is difficult to produce one particular product for all sectors of the market (Udofia et al 2011).
+Cassava roots deteriorates rapidly after harvesting (Hahn 1998), Due to the low shelf life of cassava, it is mostly processed into garri. Garri is a made by roasting sieved dewatered fermented cassava mash. 70% of cassava produced in Africa is processed into garri (). This is because of garri has longer shelf life than any cassava product, it lower bulk (Oduru et., al.). It can be made and eaten in different forms, can easily be transported and it is low in hydrogen cyanide than other processed cassava (Achinewhu, et al 1998). Garri is an easy and ready to eat form of cassava in both urban and rural communities (Flach, 1990). 
+
+Achinewhu SC, Barber LI, Ijeoma IO (1998) Physicochemical properties and garification (gari yield) of selected cassava cultivars in Rivers State, Nigeria. Plant Foods Hum Nutr 52: 133-140.
+
+## Garri quality
+
+Cassava is usually processed immediately after harvest because the tubers are highly perishable. Hahn (1998) recommend processing cassava 24 hours after harvest. The optimum value of of swelling capacity, sensory attribute and acceptability, obtained with the fermentationtime of 12 hours and frying temperature of 95°C (Udofia et al 2011). Due to the presence of cynogenic glucoside, cassava is made to undergo fermenting and heating to reduce the hydrogen cyanide content  (). The quality of cassava is affected by the varieties, time of harvest, processing method ( Cardoso et al 2004; Ernesto et al 2002). Cassava processing methods aim to reduce the cyanide content to a more acceptable level. This is usually achieved through a prolong fermentation period, and roasting Cardoso et al 2004, Ernesto et al 2002).  Cyanide is usually removed from tubers by fermentation, boiling, steaming, drying, roasting and other methods reduce the cyanide content of cassava (FAO, 2007). Cyanide content differs with geographical location (Ubwa et al., 2015). Fermentation time varies across location and this is expected to affect quality (Oduro et al., 2000). Regional and consumption preference (Forsythe, 2020), Variety, processing steps, agro-ecological conditions, crop and product management, can garri quality (Teeken et al., 2018). High yielding, varieties do not usually translate to good quality (Latah, 2016). There are different criteria to measure quality. Cassava gari quality is determined by its color, coarseness, moisture content, taste and swelling capacity and the HCN content (ACHINEWHU et al, 1998) and texture (Udofia et al 2011).  When placed in water, a garri  good quality should swell to three times its volume (Ingram, 1975). Swelling capacity is an important sensory and mechanical characteristic of garri. It is the ability of garri increase in volume as a result of water absorption. It determines the mouldability of eba and the flow of garri during drinking (Udofia et al. 2011). Swelling capacity is affected by the variety (Latah 2016).  Variation in starch content of cassava varieties influences their functional,  organoleptic , and physico-chemical properties when used in food (Afoakwa et al 2011). 
+
+
+The pH and hydrogen cyanide of garri is affected by the processing method and the variety (Latah 2016). Processed cassava had HCN above the recommended level of 10mg/kg (Latah 2016). Hydrogen cyanide content was of garri was not significantly different across variety (Latah 2016). HCN has negative correlation with pH, Aroma (Latah, 2016).  pH has a positive relationship with aroma and color and general acceptability(Latah, 2016). pH values may influence the preferences of different gari products in terms of aroma and colour (Latah, 2016).  (Ngoma et al 2019) observed that the pH is important because it affects most of the functional properties of sweet potato  flour 
+
+The bulk density (BD) is a measures the weightiness of a flour sample. It is determines the porosity of a product which determines handling and packaging of the product. (Ngoma et al 2019). Bulk density is affected by the particle size and the initial moisture content (Chandra and Singh, 2013) of the product. High bulk density is not a desired trait for garri sellers because it leads to shortage in that they sell more for less. While the buyers/ consumers see it as an important trait because with this attribute they can buy more for less (cost per unit volume)
+
+## Method of processing garri
+
+Chemical, biochemical, and Physical processes areinvolved in garri production (Udofia et al., 2011). 
+Here are the basic steps in processing garri. These steps may differ base on geographical location. The difference is usually in the length of fermentation; which can be less than 24 hours to 5 days and the stage at which fermentation is done; which can be before dewatering or during dewatering.  
+Cassava processing methods aim to reduce the cyanide content to a more acceptable level. This is usually achieved through a prolong fermentation period, and roasting (Cardoso et al 2004, Ernesto et al 2002). Due to food shortage and the high demand for garri, fermentation time is mostly reduced to 24 hours.  Using fermentation period of 24 and 48 hours, Latah 2026 observed that bulk density, swelling power and water absorption capacity of the processed gari were significantly the same. Fermentation is very important in gari production. During fermentation, linamerin which becomes hydrolyzed to hydrocyanic acid becomes reduced to a level that may become harmless after roasting (ACHINEWHU et al 1998; Bolarinwa et al 2016) 
+
+## The protocol for processing garri for PYT at Umudike and Otobi
+
+With a sharp knife, cut off the part of the harvested root that is attached to the rootstock. Then peel off the bark of the cassava tuber and wash all the peeled root in a basin of clean water. Transfer the washed tubers into a cassava grinder in batches, grind into a smooth mash and transfer into a jute bag. Transfer the jute bag to a hydraulic press for fermentation and dewatering. The mash is allowed to ferment and dewater for two nights, after which it is ready for roasting. The cassava cake left after dewatering is broken into smaller sizes and place on a sieve to remove the chaff or the uncrushed cassava. Garri is roast in batches by placing the sieved cassava cake into a hot iron pot of about 75- 100 cm wide and 10cm deep. There is no specific temperature and duration of time the hot pot containing cassava is allowed to remain on the fire. Roasting time depends on the quantity of cassava you put in the hot pot (usually between 2-3kg/batch), how much water is present in the cassava after dewatering, and how much heat was needed for roasting. The garri is ready when the quantity of vapor that comes out during frying is low and if it does not cake when pressed between the thumb and the index finger.
+
+## Garri quality
+Forms in which garri can be eaten
+A safety concern in the eating of cassava based products such as gari is due to the presence of cyanohydrins which breaks down to produce hydrogen cyanide (Ernesto et al., 2002 ) consuming food high in cynogenic glucoside is the major. Cause of Konzo (spastic paraparesis ), Konzo, an upper motor neuron disease that is characterized by irreversible muscle spasms.
+
+Since different cassava varieties differ in quality characteristics, 
+Different users of the crop and product (e.g. producers, processors, retailers, direct consumers), often have several specific characteristics that they prefer, depending on their role in the food chain (Efisue et al., 2008; Orr et al., 2018). 
+processor and consumer demand for quality characteristics of RTB food products has received lower priority in breeding programmes, which has impacted negatively on the adoption of new varieties throughout the continent (see Thiele et al., this issue). 
+
+Some characteristics may be non- negotiable for a user – meaning that the user only accepts a variety if it contains a specific quality characteristic. For example, a cassava variety that is high in cyanogenic potential would not be adopted in the market segment for fresh boiled roots, even if superior in other characteristics. 
+may not be possible to have a variety with all the desired good characteristics 
+
+## Experimental locations and trials. 
+
+This research will be done in 3 locations in Nigeria. They are; Umudike, Imo, and Otobi. The Preliminary Yield Trial (PYT) will be established in two locations, Otobi and Umudike. This will be used to study the heritability, genotype by environment interaction and, genome-wide association study. Materials for PYT will be collected from the 2019 Clonal Evaluation Trial (CET) in Ubiaja. The TRICOT anchoring experiment will be conducted in Imo state. 
+
+## Preliminary studies
+
+Harvest data from an existing NEXTGEN cassava clonal evaluation trial (CET) at Ubiaja was collected in 2019. 200 genotypes from this population were selected to be advanced to Preliminary Yield Trial (PYT). The harvested tubers from the 200 genotypes were scanned with a portable VIS/NIRS QualitySpec Trek: S-10016. Spectral data of the intact roots were obtained by scanning the proximal, the middle, and the distal portions. Samples were selected for dry matter by oven drying method and fiber.
+
+## Experiment 1: Phenotypic evaluation of 200 cassava variety in PYT at two locations. 
+
+Before varieties are released, they are grown in multilocation trials to evaluate their performance and stability in different environments (Shakhatreh et al., 2001). The gene expression can be affected by abiotic and biotic factors in an environment (Kang, 2004). Evaluation in multiple environments should be carried out to develop high performing and stable varieties (Lu’quez et al., 2002, Acquaah 2012). The Interactions between environments and genotypes cause genotypes to perform differently in different environments (Sorensen, 2010).
+
+Heritability indicates if observed differences among genotypes are due to the environment or genetics. The study of variability and heritability is done to determine if a direct selection is possible for traits of interest (Bhagasara et al. 2017). Knowledge of the genetic advance and heritability provide very useful information on variability and the relationships between genotypes traits and their environment. 
+
+There is a gap in knowledge on the genetics of cassava garri quality: if garri quality varies among genotypes and if the quality is a heritable trait and can be affected by genotype by environment interaction.
+The aim is also to estimate the heredity of garri quality and also to identify the effects of genotype by environment interaction on the garri quality. Information on the heritability will make us decide if Genome-Wide Association Study can be done on the garri quality.
+
+## Materials and Methods
+200 clones of cassava from the Nextgen CET at Ubiaja were planted at the PYT stage in Otobi and Umudike. These were grown in an alpha lattice design using two replications with 4 checks. And a plot size of 1m x 10m (10 plants per plot). The field will be evaluated at 1, 3, 6, 9, and 12 months after planting for both agronomic and disease traits. Yield data will be collected at harvest. This will include information on the number of tubers, tuber weight, dry matter by specific gravity, and dry matter by oven dry method.
+
+## Experiment 2: Physiochemical evaluation of cassava using both the wet chemistry and NIRS for the PYTs in two locations
+
+Near infra-red spectroscopy (NIRS) is an important analytical technique that is based on the vibrational properties of atoms (Lopez et al. 2013; Stuart, 2004). It provides a fast, non-destructive alternative analysis of many constituents of a sample at the same time (Büning-Pfaue, 2003). It can also measure samples in a solid or liquid state (Blanco and Villarroya, 2002). it requires little to no sample preparation (Lu et al., 2006). Since its first application in the grain industry, it is becoming widely used in the agricultural and non-agricultural fields (Agelet and Hurburgh, 2010). Hazardous chemicals are not needed for Near-infrared (NIR) analyses. NIRS calibrations can give better precision and accuracy when compared to traditional wet chemistry methods (Coats, 2002), but NIRS relies on the wet chemistry for calibrations (Agelet and Hurburgh, 2010). The quality of the reference data influences NIRS calibrations.
+
+## Materials and methods
+
+The physiochemical evaluation of the roots will be done on the fresh tubers. The genotypes will be evaluated for dry matter, starch, crude fiber, cell wall composition, pectin, sugars, cyanide, water holding capacity, swelling, and bulk density. 
+NIRS scans will be collected during harvest.
+Protocol for collecting NIRS scans
+•	3 tubers per genotype
+•	3 portions (proximal, middle and distal)
+•	2 scans per portion
+
+## Data analysis
+
+### Correlation of physiochemical with the quality garri
+
+Correlating NIRS predictions with wet chemistry results and GxE analysis will be done with the R software.
+Sensory evaluation is becoming an important aspect of plant breeding. To produce new varieties, it is ideal to consider end-user needs (Grunet et al., 2008). Sensory evaluation gives us information on how products are perceived by consumers. Human perception is very difficult to measure and describe, so sensory descriptive analysis is employed by scientists for this purpose (Lawless and Heymann, 2010). In the past conventional descriptive methods were used to determine sensory characteristics of products (Varela and Ares, 2012). This method is time-consuming, requires 10 to 120 hours of training, it is expensive to maintain a sensory panel, and conventional descriptive methods can be used to evaluate few samples (Dawson and Healy, 2018). Also, panelists may not be committed to attending the training sessions.
+
+## Rapid descriptive analysis using flash profiling method
+
+Recently, new methods have been employed in addition to conventional evaluation. These new methods are not only rapid substitutes for the conventional approaches, but they can be used in cases where sensory evaluation has never been used (Delarue, 2015a). Rapid sensory evaluation reduces the time spent on training panelists and it is useful when many samples are to be evaluated (Dawson and Healy, 2018). 
+
+Some of the rapid sensory evaluation approaches include, flash profiling, check all that applies (CATA), free sorting, projective mapping, Paired Comparisons, Polarized Sensory Positioning, Open‐ended Evaluations.
+Among all the rapid evaluation methods, flash profiling is more like the conventional method; it involves quantitative evaluation of the samples using their sensory attributes. (Delarue, 2015b). Flash profiling combines the free choice of the attribute like in the free-choice profiling method and the comparative evaluation of samples based on each attribute (Delarue, 2015b). It was originally designed to evaluate experienced experts who can understand the instructions of the experimenter and can generate discriminative sensory attributes (Delarue and Sieffermann, 2004). It has now been extended to panelists who have little or no experience in sensory evaluation. Flash profiling studies with consumers has also proven to yield meaningful results (Delarue, 2015b). 
+
+## Materials and methods
+
+### Recruitment of panelist. 
+
+This method will involve 20 panelists with little or no experience in sensory evaluation. These panelists will be regular consumers of garri and eba. The panelist will be adults between the ages of 18 and 55, without any health issues that will affect their ability to participate in the study. The panelists will have the cognitive ability to understand the research process and they will be able to make good decisions on their own. The participation of panelists will be voluntary, and they can decide to back out of the study if they so desire.
+
+### Generation of lexicons
+
+The evaluation will be done in two phases; the first phase will be the generation of lexicons. The panelist will be given the samples and they will generate lexicons of their choice. The lexicons generated will be collated, revised together to removed redundancy, and a list of the selected lexicons will be compiled.
+The second phase will be the evaluation phase. This will be done in two days and two sessions per day. The panelists will be given a list of the compiled lexicon and a list of their independent lexicons, they will be given time to read through the attributes before evaluating the samples.
+A total of 40 samples (14 from the tricot experiment and 26 from the UYT) will be evaluated. Each panelist will be given 5 samples at random. They will rank each sample base on the attributes in order of increasing intensity. They will be asked to compare the samples and choose which they prefer and if they are willing to spend their money on that product.
+
+The sensory evaluation will be done in two sessions each day. In the first phase, 5 samples will be evaluated in the morning and 5 samples in the afternoon. There will be a break of about 30 minutes to one hour. 
+The descriptors for garri 
+Color, taste, texture, grain size, and appearance
+The descriptors for Eba 
+Color, taste, texture, aroma, and appearance.
+The descriptors for Eba during eating
+Stick to the fingers, ease of swallow, mouth feel
+
+### Preparation and administration of samples
+
+Each panelist will receive a sample of eba made from 100g of garri. The garri will be made into eba by reconstituting it with boiling water and stirring it to form a dough. Best sanitary practices will be used in preparing the eba. The samples will be put in disposable plates labeled with anonymized sample numbers and given to the panelists. The panelists will evaluate the samples independently with no interactions with other panelists. The product (eba) will be evaluated alone and not with soup as it is usually consumed. This way, the focus will be on the qualities of the eba rather than that of the soup.
+After evaluating a sample, the panelists will be given water and crackers to clean their mouths before evaluating another sample. incentives will be given to the panelists at the end of the experiment. These incentives will not be too great that it will affect the voluntary status of the panelists.
+
+## Data analysis
+
+Sensory data will be evaluated using the generalized Procrustes analysis (GPA) as proposed by Grower (1975). Sensory maps will be generated using the first two principal components obtained from the GPA. The correlation of physiochemical traits with the data from the sensory evaluation and the correlation between the NIRS predictions and the results from the wet chemistry will be obtained using R software.
+
+## Experiment 4: 
+
+### Anchoring experiment of the RTBfood TRICOT Experiment
+Over the years, improved cassava varieties have been developed for farmers and other agricultural industries but there is poor adoption of many of these varieties (Steinke and Van Etten 2016). Early research focused on the development of high yield and disease resistant varieties (Evenson and Gollin, 2003). Consumers, on the other hand, prefer varieties that will give good quality of the final product and this varies based on the manner of consumption and the regional preference (Forsythe et al, 2020). Sometimes, varieties that do well on the research station may not work well on a small farm managed by the farmer (Steinke and Van Etten, 2016). These are some of the reasons why these varieties are not adopted. To address this issue, breeding programs are now becoming more demand-driven. With TRICOT (triadic comparison of technologies) crop varieties or other agricultural technologies can be distributed to individual farmers in combinations of three, these varieties are observed and evaluated on-farm, and their performances compared (Van Etten et al, 2019). TRICOT is easy to understand and farmers with low levels of education can participate. Ranking of the varieties makes TRICOT less complicated (Van Etten et al., 2019).
+
+### TRICOT Anchoring experiment
+The objective of this experiment is to compare farmer managed fields with on-station managed fields. To see if varieties perform differently or are assessed differently on the farmer's field. 30 farmers will be given 3 cassava varieties to grow on their field. The varieties will be evaluated at different time points. At harvest, numeric data on the yield traits will be collected along with rating the agronomic, disease, and NIRS evaluation. While the farmers will rank these traits from best to worst. The tubers will be processed into garri and eba and the quality ranked from best to worst. Finally, the farmers will give an overall rating of the variety on a scale of 1-5 based on all the traits evaluated in this experiment.
+
+The objective of this experiment is to compare farmers handled field with on-station field managed by research personnel.
+
+### Materials and methods
+
+10 percent of the total TRICOT experiment of 300 farmers (thus, 30 farmers) will be given 3 cassava varieties to grow on their field at different. The varieties will be evaluated at 1, 3, 6, 9, and 12 months after planting. They will rate the plants from best to worse for the agronomic such as plant height, vigor, architecture, and disease traits. At harvesting, numeric data on the yield traits will be collected along with the rating the agronomic, disease, and architecture. The tubers will be processed into garri and eba. These will be ranked from best to worst. Finally, the farmers will give a general rating of the variety on a 1-5 rating. This rating will be on the overall value (that is, the agronomic, the disease, and the garri/eba quality).
+Fresh tubers and garri samples will be collected for the farmer’s fields. These will be scanned using NIRS and physiochemical characterization of these samples will be done in the NRCRI research laboratory. The fresh tubers will be evaluated, for dry matter, starch, crude fiber, cell wall composition/pectin, sugars, and cyanide. The garri will be evaluated for, water holding capacity, swelling, bulk density, sugar, starch, and cyanide content.
+
+### Sensory evaluation of the tricot anchoring experiment
+
+The sensory evaluation of the tricot farmers was done in a central location. Farmers were invited individually to the same location, samples of garri from the cassava genotypes gown on their field were given to them. They ranked the garri samples from best to worst based on the color, appearance and taste. The farmers were given the garri to make into eba to their taste (as they would do in their homes). The volume of garri, the weight of garri, the quantity of water used, and the temperature at which the eba was made were recorded. The weight of eba was taken and the farmers evaluated the samples from best to worst based on the appearance, color, texture, and taste. These attributes were named using the farmers terminologies. The tricot samples were compared with each other and with a local check (when available). 
+
+### Texture analysis of the tricot genotypes 
+TPA was created as an imitative test, resembling what goes on in the human mouth. It has been suggested that such test should operate at a similar speed to that of the human jaw (Rosenthal 1999). The TPA test was often called the "two bite test" because the texture analyzer mimics the mouth's biting action.
+Texture Profile Analysis is a popular double compression test for determining the textural properties of foods
+
+It is not sufficient to deliver a food with a target hardness and springiness value if consumers do not like it and it does not meet their expectations for that food type
+
+## Method of the texture analysis
+
+PROCEDURE FOR SPELLING POWER 
+1.	Label centrifuge tubes according to sample codes 
+2.	Take the weight of empty centrifuge tube
+3.	Weigh 1g dried sample into the centrifuge tube
+4.	Add 15ml of distilled water and stir
+5.	Load into the water bath and heat for 40mins at 80 degrees centigrade with constant stirring 
+6.	Centrifuge at 2200 rpm for 20mins
+7.	Carefully decant the supernatant into a pre weighed empty Can and dry at 100 degrees centigrade to constant weight 
+8.	Take the weight of sediment and centrifuge tube
+9.	 After drying, Cool in a designator and weigh
+
+Where weight of empty Can = A
+Weight of Can + dried supernatant = B
+Weight of soluble =B-A
+Weight of empty centrifuge tube = D
+Weight of centrifuge tube +sediment = E
+Weight of sediment = E-D
+Swelling power = weight of sediment 
+                 Sample weight – weight of soluble
+
+SOLUBILITY 
+% solubility = weight of soluble× 100
+                        Weight of sample
+
+
+
+PROCEDURE FOR WATER ABSORPTION CAPACITY (WAC)
+1.	Label centrifuge Tubes according to sample codes
+2.	Take weight of empty centrifuge tube
+3.	Weigh 1g of sample into the tube
+4.	Add 15ml of distilled water and stir
+5.	Allow to stand for 10mins 
+6.	Centrifuge at 2200 rpm for 20mins
+7.	Carefully decant the supernatant into a calibrated falcon tube and take the readings of final volume of water 
+8.	Take weight of sediment and tube
+
+Where weight of sediment = (wt. Of sediment + tube) – (wt. Of empty tube)
+
+WAC = wt. Of sediment- wt. Of sample ×100
+
+AMYLOSE CONTENT DETERMINATION
+
+•	Weigh 0.1g or 100mg of sample into a test tube.
+•	Add carefully 1ml of 95% ethanol and 9ml 1N NaOH, mix the contents very well.
+•	Heat sample for 10 minutes in a boiling water bath to gelatinize the starch, cool very well.
+•	Dilute with 9ml of water
+•	Use an aliquot of 0.5ml of digest for analysis.
+•	Add 0.1ml of Acetic acid solution
+•	Add 0.2ml of iodine solution.
+•	Make up to 10ml with 9.2ml of distilled water.
+•	Leave for 20mins for color development.
+•	Vortex and read at 620nm.
+
+BULK DENSITY 
+
+Weighed out 10 g of the sample and poured into a plastic measuring cylinder with the help of a folded paper. (Note: Used 30 g sample in 100 ml capacity plastic cylinder). The cylinder was tapped gently on a desk for about 15 minutes till no further reduction in volume was achieved to remove all the air space present in the sample. The final volume was noted. The bulk density (g/ml) was calculated as weight of sample divided by the final volume. 
+Note that 30 g sample was used as using 10 g was too small to read on the available plastic cylinder.  This was returned after use.
+
+DRY MATTER
+
+Weighed out 5 g sample (W1) into pre-weighed moisture can of weight W2. The can with sample was placed in the hot air oven for at least 8 hours at 105oC to dry. It was allowed to cool in a desiccator after which the final weight of can + dried sample (W3) was noted. 
+  $ % Dry Matter (DM) = (W3 - W2)/ W1 $
+
+Note that 10 g of samples were used for % DM of Tricot samples except in smaller samples where 5 g were used. Results for Tricot DM could be part of results sent by IJ as we worked on TRICOT DM together. 
+
+SWELLING INDEX
+
+Weighed out 1 g of the sample and it was carefully added into a 15 ml capacity falcum tube containing 10 ml distilled water. The sample was allowed to settle and the initial volume was taken. Left the fulcum tube in an upright position and allowed to stand for 1 hour. The final volume of the sample was noted. The swelling index was calculated as 
+      Swelling Index (SI) = Final Volume/Initial Volume 
+
+HYDROGEN CYANIDE (HCN)
+
+This was determined using the alkaline picrate method (Onwuka, 2005) with modifications as described by Eleazu and Eleazu (2012). Five grams of each sample was dissolved in 50 ml distilled water and allowed to  stay overnight. The sample was filtered and the filtrate was used for cyanide dedetermination. To 1 ml of the aqueous extract was added 4 ml of alkaline picrate ( obtained by dissolving 1 g of picrate and 5 g of  Na2CO3 in 200 ml distilled water). The whole set up was incubated in a waterbath at 50oC for 5 mins for colour development. The colour developed was read spectrophotometrically at 490 nm. The cyanide content in mgHCN/Kg was extrapolated using the equation of a standard graph 
+         Y = 3.23x + 0.217 × 10
+Where,
+Y = Unknown concentration of the sample in mgHCN/Kg
+3.23 = Slope of graph
+X = Absorbance of sample 
+0.217 = Intercept
+10 = dilution factor 
+
+CRUDE FIBRE
+
+Three grams (3 g) of the sample was defatted with petroleum ether. The defatted sample was boiled for 30 minutes in 150 ml of 1.25% H2SO4 solution. Care was taken to avoid loss of particles during the whole process. After boiling, the sample was washed with repeated portions of hot distilled water to wash off the acid. Meanwhile, during washing, a two fold muslin cloth was used to retain the particles of the sample. After washing, it was carefully transferred back to the flask and boiled again with 150 ml of 1.25% NaOH solution for 30 minutes and washed as with the acid. The residue was drained and transferred into a pre-weighed crucible in which it was dried in an oven at 105oC to a constant weight. It was cooled in the desiccators and reweighed. The crucible with its content was then placed in the muffle furnace to ash at temperature of 550oC. It was cooled and weighed. The crude fibre was calculated as follows:
+% Crude fibre = W3–W2 X 100
+                              W1              1					
+
+Where
+W1 = weight of sample
+W2 = weight of sample + crucible after drying
+W3 = weight of crucible + sample after ashing
+Note: Used hot plate to ash
+
+Analysis of Free Sugar
+Sample preparation
+1.	Weigh 0.020g flour or starch into centrifuge tubes
+2.	Wet the powder with 1.0ml of 95% Ethanol
+3.	Add 2.0ml of distilled water
+4.	Add 10ml of hot ethanol and vortex
+5.	Centrifuge for 10 mins at 2000rpm
+6.	Decant the supernatant into a test tube
+7.	Make it up 20ml mark / add 7ml of distilled water
+Colour development
+1.	Use an aliquot (0.2ml) of extract for assay, also collect for blank
+2.	Add 0.8ml of distilled water
+3.	Add 0.5ml of phenol and vortex
+4.	Add 2.5ml of conc. Sulphuric acid slowly and vortex
+5.	Cool and read absorbance at 490nm.
+Analysis of starch
+Sample preparation
+1.	To the residue from the sugar analysis, add 7.5ml of perchloric acid
+2.	Let it stand for 1 hour
+3.	Dilute the hydrolysate with 17.5ml of  distilled water / make up to 25ml mark and filter
+4.	Take 0.05ml of the filtrate and dilute with 0.95ml of distilled water, vortex and ready for assay.
+Colour development
+1.	 Develop colour with phenol and sulphuric acid as in free sugar analysis
+Calculation
+       B x W x 106
+% Sugar   ¬¬=               (A-I) x D.F x V x 100
+		
+		
+% Starch =		(A-I) x D.F x V x 100 x 0.9
+				B   x W x 106		
+
+
+REFERENCES
+Eleazu, C. O. and Eleazu, K. C. (2012). Determination of the proximate composition, total carotenoid, reducing sugars and residual cyanide levels of flours of 6 new yellow and white cassava (Manihot esculenta Crantz) varieties. American Journal of Food Technology, 7(10): 642 - 649.
+
+Onwuka, G. I. (2005). Food Analysis and Instrumentation : Theory and Practice. Ist Edition. Napthali Prints, Surulere, Lagos, Nigeria, pp. 140 - 160.
+
+Note that citation and reference was only given for HCN determination, others would be sent later. Results for crude
+
+Data Analysis
+Correlation of the farmers’ ranking and the results from the laboratory analysis.
+Correlation between, NIRS, laboratory analysis, and consumer ranking for all the traits measured. 
+Correlate the farmers’ ranking and the data from on-station research trials (UYT)
+Character	Fresh	Gari	Reference / Notes
+Dry matter	Yes	Yes	There is a positive relationship between dry matter and starch (Bechoff et al., 2016). 
+
+Starch	Yes	Yes	Starch affects the functional properties of food (Afoakwa et al., 2011).
+Starch structures are the major attribute that affects texture (Charoenkul, et al., 2011) 
+Free amylose content of Starch affects the bulk density (Plaami 1997), swelling capacity (Achinewhu et al. 1998), gelatinization (Sanni, 2004), water absorption (Olufunmilola, 2014, Hartati et al., 2020).
+The change in texture of roots and tubers during processing are related to pectin, starch content, and starch composition, that is, the amylose/amylopectin ratio (Bechoff et al., 2016).
+Starch is the major component of the dry matter, there is a linear relationships between specific gravity and starch content obtained by the alkaline-ferricyanide method (Verma et al.,1975; Ezekiel et al., 2003; Kumar et al., 2005).
+
+Specific gravity and dry matter differ with location, an equation developed for one location cannot be used for another location (Kumar et al., 2005).
+pH	No	Yes	Slightly acid cassava products are preferred by consumers (Owuamanam et al., 2010). Low pH during fermentation for garri is as a result of the presence of organic acids such as lactic, acetic, propionic, and pyruvic acid. Formation of organic acids is related to starch content and composition (Owuamanam et al., 2010).
+Sour taste and fermentation odor are negatively correlated with pH (Adinsi et al 2019)
+Longer fermented garri is correlated with bitter after taste (Adinsi et al 2019)
+Crude fiber	Yes	Yes	Crude fiber is a complex mixture of polysaccharides. Fiber has swelling and water retention properties (Dhingra et al., 2012)
+Sugar	No	Yes	Surprisingly, bitter cassava varieties have more soluble sugars that sweet ones (Hongbe´te´ et al., 2011). 
+Cyanide	NO	No	Garri produced in Nigeria always contains some level of cyanide (Achinewhu et al., 1998). Ogbo and Okafor 2015 observed 8 mg/kg of cyanide in garri although this is below the level of tolerance recognized by FAO/WHO 1999. Nevertheless, compounds at very low concentrations can affect flavor. 
+Cyanide in cassava can be found in three forms, the free cyanide, the bound glucosides, and the cyanohydrins, (Cooke 1983). Each of which react differently to processing and have different levels of toxicity (Montagnac et al, 2009).
+There is a debate if the cyanide level could be directly linked to the perceived bitterness (Bechoff et al., 2016).
+The cyanogenic glucoside content of garri is an important quality attribute of gari, due to its toxicity (Irtwange and Achimba, 2009).
+Although cyanide is present in processed garri, it is in a safe level (Aletor,1993)
+
+The hydrocyanic acid level of the varieties was not significantly influenced (p>0.01). However, the interaction of variety and processing methods influenced significantly differences among pH and hydrocyanic acid of gari. (Latah 2016)
+
+
+Water absorption capacity	No	Yes	Water absorption capacity is a fundamental quality parameter (Bushuk and Békés, 2002). It is the amount of water that is needed to produce dough with best consistency (Rakszegi et al., 2014).
+Water Absorbing Capacity of garri decreases as particles size decreases (Laya et al 2018). 
+Water absorption  and Swelling capacity are positively correlated with texture during chewing  (Adinsi et al 2019).
+
+Swelling index	No	Yes	A high swelling capacity is  regarded as a good quality garri trait (Sanni, 1991; Oduro et al., 2020). The ability to swell is determined by the degree of gelatinization of the starch in the garri (Oduro et al., 2020).
+Particle size	No	Yes	This affects sensory attributes such as mouth feel, texture of garri when consumed dry, soaked or used as dough (Udoro et al., 2014). Particle size distribution also affect the bulk density (Udoro et al., 2014)
+Mash with high starch content gives garri with high particle size (Laya et al., 2018). 
+
+Bulk density	No	Yes	Samples with low bulk density float on top of water and as a result may not soak well in water this may lead it been rejected by consumers (Sanni et al., 2008).
+
+
+
+
+
+
+References
+Acquaah G (2012) Principles of plant genetics and breeding, 2nd edn. Wiley, Oxford
+
+Bechoff, A., Tomlins, K., Fliedel, G., Becerra Lopez-lavalle, L. A., Westby, A., Hershey, C., & Dufour, D. (2018). Cassava traits and end-user preference: Relating traits to consumer liking, sensory perception, and genetics. Critical Reviews in Food Science and Nutrition, 58(4), 547–567. https://doi.org/10.1080/10408398.2016.1202888
+
+Blanco M, Villarroya I. NIR spectroscopy: a rapid-response analytical tool. TrAC Trends Anal Chem. 2002; 21: 240–250. http://dx.doi.org/10.1016/S0165-9936(02)00404-1 
+
+Büning-Pfaue H 2003. Analysis of water in food by near infrared spectroscopy. Food Chem. 2003; 82: 107– 115. https://doi.org/10.1016/S0308-8146(02)00583-6
+
+Ceballos, H., C.A. Iglesias, J.C. Perez, and G.O. Dixon. 2004. Cassava breeding: Opportunities and challenges. Plant Mol. Biol. 56:503–516.
+
+Centro Internacional de Agricultura Tropical (CIAT). 2011. The Cassava Handbook. A Reference Manual based on the Asian Regional Cassava Training Course, held in Thailand. Thai Watana Panich Press Co, Ltd. P 801
+
+Coats D. B. 2002 Is near infrared spectroscopy only as good as the laboratory reference values? An empirical approach. Spectroscopy Europe, 14(4) :24-26. 
+
+Dawson JC and Healy GK (2018) Flavour Evaluation for Plant Breeders. Plant Breeding Reviews, Volume 41, First Edition. Edited by Irwin Goldman. © 2018 John Wiley & Sons, Inc. John Wiley & Sons, Inc 
+
+Delarue J (2015a). The use of rapid sensory methods in R&D and research: an In Delarue J, Lawlor B, Rogeaux M. edited Rapid Sensory Profiling Techniques Applications in New Product Development and Consumer Research. A volume in Woodhead Publishing Series in Food Science, Technology and Nutrition Elsevier Ltd. Pages 3-25
+
+Delarue J. (2015b) Flash Profile, its evolution and uses in sensory and consumer science. In Delarue J., Lawlor B, Rogeaux M. edited Rapid Sensory Profiling Techniques Applications in New Product Development and Consumer Research. A volume in Woodhead Publishing Series in Food Science, Technology and Nutrition Elsevier Ltd. 584
+
+Delarue, J. and Sieffermann, J.-M. (2004). Sensory mapping using Flash profile. Comparison with a conventional descriptive method for the evaluation of the flavour of fruit dairy products. Food Quality and Preference, 15, 383–392. 
+
+FAO 2019. http://www.fao.org/faostat/en/#data. Accessed June 2020
+
+Forsythe L, Tufan H, Bouniol A, Kleih U, Fliedel G (2020). An interdisciplinary and participatory methodology to improve user acceptability of root, tuber and banana varieties. https://ifst.onlinelibrary.wiley.com/doi/epdf/10.1111/ijfs.14680
+
+Evenson R E and Gollin D 2003. Assessing the impact of green revolution 1960 to 2000. Science 300, 758:762
+
+Grower J C (1975). Generalized Procrustes Analysis. Psychometrica, (40) 33-51
+
+Grunert, K. G., Jensena, B.B., Sonnea, A.M., Brunsoa, K., Byrne, V.D., Clausen, C., Friis, A., Holme, L., Hyldig, G., Kristensen, N.H., Lettla, C., Scholderer, J. (2008). User-oriented innovation in the food sector: relevant streams of research and an agenda for future work.  Trends in Food Science and Technology, DOI:10.1016/j. 03.008.
+
+International Institute of Tropical Agriculture (IITA) and Support to Agricultural and Development of Strategic Crops in Africa (SARD-SC), (2015) Farmers’ Guilde to Cassava Cultivation: Frequently Asked Questions.IITA Ibadan.11p
+
+Jansson, C., Westerbergh, A., Zhang, J., Hu, X., Sun, C., 2009. Cassava, a potentialbiofuel crop in (the) People’s Republic of China. Appl. Energy 86, S95–S99.Rogers, 1963)
+Lawless, H.T. and H. Heymann (2010). Sensory evaluation of food. Principles and practices. (2nd edition). New York: Springer.
+
+Legrand, G., Ngea, N., Guillon, F., Justin, J., Ngang, E., Bonnin, E., … Saulnier, L. (2016). Modification of cell wall polysaccharides during retting of cassava roots. https://doi.org/10.1016/j.foodchem.2016.06.107
+Lidia Esteve Agelet and Charles R. Hurburgh Jr. (2010) A Tutorial on Near Infrared Spectroscopy and its’ Calibration. Critical Reviews in Analytical Chemistry DOI: 10.1080/10408347.2010.515468 
+
+Lopez A, Arazuri S, Garcia I, Mangado J, Jaren C, 2013 A Review on the Application of Near-Infrared Spectroscopy for the Analysis of Potatoes for the Analysis of Potatoes.; https://doi.org/10.1021/jf401292j 
+
+Lu G, Huang H, Zhang D. Prediction of sweetpotato starch physiochemical quality and pasting proper- ties using near-infrared reflectance spectroscopy. Food Chem. 2006; 94: 632–639. https://doi.org/10. 1016/j.foodchem.2005.02.006 
+
+Lu’quez, J.E., L.A.N. Aguirreza’bal, M.E. Aguero, and V.R. Pereyra. 2002. Stability and adaptability of cultivars in non- balanced yield trials: Comparison of methods for selecting ‘high oleic’ sunflower hybrids for grain yield and quality. Crop Sci. 188:225.
+
+Owusu V., Donkor E., Adoption of Improved Cassava Varieties in Ghana, Agric. J., 2012, 7, 146-151
+
+Rabbi I.Y., Hamblin M T., Kumar P. L., Gedil M.A. , Ikpan A.S, Jannink  Jean-Luc, Kulakow P. A. (2014) High-resolution mapping of resistance to cassava mosaic geminiviruses in cassava using genotyping-by-sequencing and its implications for breeding (Article in press). www.elsevier.com/locate/virusres.
+
+Shakhatreh Y, Kafawin O, Ceccarelli S, Saoub H. (2001) Selection of Barley lines for drought tolerance in low-rainfall areas. Journal of Agronomy and Crop Science. 186:119-127
+
+Sorensen D (2010). The genetics of environmental variation. In: Proceedings of the 9th World Congress on Genetics Applied to Livestock. Germany: Leipzig.
+
+Steinke J and Van Etten J (2016) Farmer experimentation for climate adaptation with triadic comparisons of technologies (tricot). A methodological guide. Version 1. https://core.ac.uk/download/pdf/132687863.pdf
+
+Stuart BH. Infrared Spectroscopy: Fundamentals and Applications [Internet]. Methods. 2004. https:// doi.org/10.1002/0470011149 
+
+Uthumporn, U., Nadiah, I., Izzuddin, I., Cheng, L. H., & Aida, H. (2017). Physicochemical characteristics of non-starch polysaccharides extracted from cassava tubers. Sains Malaysiana, 46(2), 223–229. https://doi.org/10.17576/jsm-2017-4602-06
+
+Van Etten J., Beza E., Calderer L.,Van Duijvendijk K., Fadda C., Fantahun B., Kidane Y., Van De Gevel J., Gupta A., Mengistu D., Kiambi D., Mathur P., Mercado L., Mittra S., Mollel M., Rosas J., Steinke J., Suchini J., Zimmerer K (2019). First Experiences With A Novel Farmer Citizen Science Approach: Crowdsourcing Participatory Variety Selection Through On-Farm Triadic Comparisons of Technologies (TRICOT). Experimental Agriculture, 55(S1), 275-296. 
+doi:10.1017/S0014479716000739
+
+Varela, P and Ares G (2012). Sensory profiling, the blurred line between sensory and consumer science. A review of novel methods for product characterization. Food Research International. 48 (2) 893- 908
+Achinewhu S.C., L.I. Barber and I.O. Ijeoma (1998) Physicochemical properties and garification (gari yield) of selected cassava cultivars in Rivers State, Nigeria. Plant Foods for Human Nutrition 52: 133–140.
+Adebayo B. Abass, Nanam T. Dziedzoave, Bamidele E. Alenkhe, and Braima D. James (2012) Quality management manual for the production of gari International Institute of Tropical Agriculture (IITA), 2012. Ibadan, Nigeria 
+Aditya Parmar, Barbara Sturm, and Oliver Hensel (2017) Crops that feed the world: Production and improvement of cassava for food, feed, and industrial uses. Food Sec. 9:907–927.  DOI 10.1007/s12571-017-0717-8 
+Alphonse Laya, Benoît Bargui Koubala , Habiba Kouninki, and Elias Nchiwan Nukenine (2018) Effect of Harvest Period on the Proximate Composition and Functional and Sensory Properties of Gari Produced from Local and Improved Cassava (Manihot esculenta) Varieties. International Journal of Food Science. Volume 2018, Article ID 6241035, 15 pages https://doi.org/10.1155/2018/6241035 
+Aurélie Bechoff, Keith Tomlins, Geneviève Fliedel, Luis Augusto Becerra Lopez-lavalle, Andrew Westby, Clair Hershey & Dominique Dufour (2018) Cassava traits and end-user preference: Relating traits to consumer liking, sensory perception, and genetics, Critical Reviews in Food Science and Nutrition, 58:4, 547-567, DOI: 10.1080/10408398.2016.1202888 
+Forsythe Lora, Hale Tufan, Alexandre Bouniol, Ulrich Kleih, Geneviève Fliedel (2020) AN interdisciplinary and participatory methodology to improve user acceptability of root, tuber and banana varieties : Food product profiles for quality characteristics. International Journal of food science and technology
+Oduro I. , W.O. Ellis, N.T. Dziedzoave , K. Nimako-Yeboah (2000). Quality of gari from selected processing zones in Ghana .Food Control 11 : 297- 303 
+Olakunle M. Makanjuola, Akinwale S. Ogunmodede, John O. Makanjuola and Samuel O. Awonorin (2012). Comparative Study on Quality Attributes of Gari Obtained from Some Processing Centres in South West, Nigeria . Advance Journal of Food Science and Technology 4(3): 135-140
+Udoro EO, Kehinde AT, Olasunkanmi SG, Charles TA (2014) Studies on the Physicochemical, Functional and Sensory Properties of Gari Processed from Dried Cassava Chips. J Food Process Technol 5: 293. doi:10.4172/2157-7110.1000293 
+Frank C. Ogbo, Edith N. Okafor (2015) The resistant starch content of some cassava based Nigerian foods Nigerian Food Journal (33) 29–34. https://doi.org/10.1016/j.nifoj.2015.04.007
+Olufunmilola O. Oladunmoye, Ogugua C. Aworh, Bussie Maziya-Dixon, Ochuko L. Erukainure & Gloria N. Elemo(2014). Chemical and functional properties of cassava starch, durum wheat semolina flour, and their blends Food Science & Nutrition 2014; 2(2): 132– 138 doi: 10.1002/fsn3.83 
+Hartati, N Rahman, F T Ajie, and N S Hartati  (2020) Variation of cassava genotypes based on physicochemical properties of starches and resistant starch content 
+Bushuk, W., Békés, F. 2002. Contribution of protein to flour quality. In: Salgó, A., Tömösközi, S., Lásztity, R. (eds), Proc. Novel Raw Materials, Technologies and Products – New Challenge for the Quality Control. ICC, Vienna, Austria, pp. 4–9.
+
+Bushuk, W., Békés, F. 2002. Contribution of protein to flour quality. In: Salgó, A., Tömösközi, S., Lásztity, R. (eds), Proc. Novel Raw Materials, Technologies and Products – New Challenge for the Quality Control. ICC, Vienna, Austria, pp. 4–9.
+
+M. Rakszegi, G. Balázs, F. Békés, A. Harasztos, A. Kovács, L. Láng, Z. Bedõ and S. Tömösközi (2014). Modelling Water Absorption of Wheat Flour by Taking into Consideration of the Soluble Protein and Arabinoxylan Components Cereal Research Communications DOI: 10.1556/CRC.2014.0007 
+
+Montagnac J, Davis C, Tanumihardjo S 2009 Processing Techniques to Reduce Toxicity and Antinutrients of Cassava for Use as a Staple Food. Comprehensive Reviews in Food Science and Food Safety 2009 vol: 8 (1) pp: 17-27
+Charoenkul, N., Uttapap, D., Pathipanawat, W., & Takeda, Y. (2011). Physicochemical characteristics of starches and flours from cassava varieties having different cooked root textures. LWT - Food Science and Technology, 44(8), 1774–1781. 
+
+Latah, E. K. (2016). Effect of variety and processing methods on the physicochemical and sensory properties of gari in three Districts of the Brong Ahafo. Kwame Nkrumah University of Science and Technology, (2016) 1-99
+ Blucher Design Proceedings. https://www.mendeley.com/catalogue/1cd69b00-abf9-32e0-8346-8c53f7866453/
+https://www.infodesign.org.br/infodesign/article/view/355%0Ahttp://www.abergo.org.br/revista/index.php/ae/article/view/731%0Ahttp://www.abergo.org.br/revista/index.php/ae/article/view/269%0Ahttp://www.abergo.org.br/revista/index.php/ae/article/view/106 ht
+
+Udofia, P., Udoudo, P., Eyen, N., & Udoekong, N. S. (2011). Optimizing gari quality attributes for different groups of consumers with response surface methodology. Journal of Agricultural Biotechnology and Sustainable Development, 3(2), 28–34. Retrieved from http://www.academicjournals.org/JABSD
+
