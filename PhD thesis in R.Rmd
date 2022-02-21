@@ -1,10 +1,12 @@
 ---
-title: "Genetic Improvement and Chemical Cjharacterisation of Garri Quality of Cassava"
+title: "Genetic Improvement and Chemical Characterisation of Garri Quality of Cassava"
 author: "Chinedozi"
 date: "9/14/2021"
-output: word_document
+output:
+  word_document: default
+  html_document:
+    df_print: paged
 fontsize: 12pt
-
 ---
 
 ```{r setup, include=FALSE}
@@ -13,9 +15,45 @@ fontsize: 12pt
 
 # Physicochemical characterization and genetic improvement of garri quality of cassava
 
+# outline of thesis
+
+## introduction
+
+## Justification
+
+## Objectives
+
+## Cassava origin 
+
+## Biology of cassava
+
+## Environmental requirement
+
+## Chemical composition of cassava
+
+## Importance of cassava
+
+## Garri quality
+
+## Method of processing garri
+
+## preparation of garri/uses of garri
+
+## The protocol for processing garri for PYT at Umudike and Otobi
+
+## Experimental locations and trials
+
+## Experiment 1: Phenotypic evaluation of 200 cassava variety in PYT at two locations
+
+## Experiment 2: Physiochemical evaluation of cassava using both the wet chemistry and NIRS for the PYTs in two locations
+
+## Experiment 3: Rapid descriptive analysis using flash profiling method
+
+## Experiment 4: Anchoring experiment of the RTBfood TRICOT Experiment
+
 ## Introduction
 
-Cassava (Manihot esculenta Crantz) is a major staple food for millions of people in tropical Africa, South America, and Asia (Halsey et al., 2008). It is grown for its carbohydrate-rich roots (Ceballos et al., 2004). The roots are a source of industrial raw materials in the production of starch and bioethanol (Jansson et al., 2009). The leaves are eaten as green vegetables, and are an excellent source of protein and vitamins A and B. The leaves and tubers can be used as animal feed. Cassava is drought tolerant and can grow well even on soils with low fertility (IITA, 2015). It grows on all soil types making it available in all parts of the country and all seasons. 
+Cassava (_Manihot esculenta Crantz_) is a major staple food for millions of people in tropical Africa, South America, and Asia (Halsey et al., 2008). It is grown for its carbohydrate-rich roots (Ceballos et al., 2004). The roots are a source of industrial raw materials in the production of starch and bioethanol (Jansson et al., 2009). The leaves are eaten as green vegetables, and are an excellent source of protein and vitamins A and B. The leaves and tubers can be used as animal feed. Cassava is drought tolerant and can grow well even on soils with low fertility (IITA, 2015). It grows on all soil types making it available in all parts of the country and all seasons. 
 
 Cassava is widely grown in tropical and subtropical regions of Africa, Malaysia, Madagascar, Indonesia, India, Thailand, and the Philippines. Africa is the highest producer of cassava, with a productivity of 169,673,737 tonnes in 2018 (FAOSTAT, 2019). Nigeria is the world's largest producer of cassava in Africa, with a production of 59,475,202 tonnes in 2018 (FAOSTAT, 2019).
 
@@ -33,16 +71,11 @@ The Objectives of the study are:
 2.	Product profiling (color, flavor, taste, and texture) of both garri and eba (derived from garri).
 3.	Estimate genotype by environment interaction and heritability of garri quality
 4.	Determine the relationship between cassava genotypes and processed garri / eba 
-5.	Determine the relationship between farmers’ evaluation and researchers’ evaluation.
-6.	Determine the effect of cassava genotypes on garri shelf life. 
+5.	Determine the relationship between farmers’ evaluation (on farm) and researchers’ evaluation(on station).
+ 
 
-## outline
-Cassava origin 
-Biology of cassava
-Environmental requirement
-Chemical composition
 Cassava have a large variation of the qualitative traits, such as variation in physicochemical properties and starch characteristics [1], variation of macronutrient content of fat and crude protein and variation in micronutrient of carotene, Fe, Na, K, Cu, and Zn, and vitamins [2,3,4], variation in dry matter, amylose, starch and resistant starch content [9 
-
+Garri
 
 ## Hydrogen cyanide
 
@@ -79,9 +112,8 @@ With a sharp knife, cut off the part of the harvested root that is attached to t
 Forms in which garri can be eaten
 A safety concern in the eating of cassava based products such as gari is due to the presence of cyanohydrins which breaks down to produce hydrogen cyanide (Ernesto et al., 2002 ) consuming food high in cynogenic glucoside is the major. Cause of Konzo (spastic paraparesis ), Konzo, an upper motor neuron disease that is characterized by irreversible muscle spasms.
 
-Since different cassava varieties differ in quality characteristics, 
-Different users of the crop and product (e.g. producers, processors, retailers, direct consumers), often have several specific characteristics that they prefer, depending on their role in the food chain (Efisue et al., 2008; Orr et al., 2018). 
-processor and consumer demand for quality characteristics of RTB food products has received lower priority in breeding programmes, which has impacted negatively on the adoption of new varieties throughout the continent (see Thiele et al., this issue). 
+Because of the differences in the quality of different cassava varieties, users of the crop and product  have  specific characteristics that they prefer; depending on their role in the food chain (Efisue et al., 2008; Orr et al., 2018). 
+The deman of cassava Processor and consumer for quality characteristics of Roots, tubers, and banana food products has received lower priority in breeding programmes, this has  negatively impacted the adoption of new varieties (see Thiele et al., this issue). 
 
 Some characteristics may be non- negotiable for a user – meaning that the user only accepts a variety if it contains a specific quality characteristic. For example, a cassava variety that is high in cyanogenic potential would not be adopted in the market segment for fresh boiled roots, even if superior in other characteristics. 
 may not be possible to have a variety with all the desired good characteristics 
@@ -96,6 +128,8 @@ Harvest data from an existing NEXTGEN cassava clonal evaluation trial (CET) at U
 
 ## Experiment 1: Phenotypic evaluation of 200 cassava variety in PYT at two locations. 
 
+## Introduction
+
 Before varieties are released, they are grown in multilocation trials to evaluate their performance and stability in different environments (Shakhatreh et al., 2001). The gene expression can be affected by abiotic and biotic factors in an environment (Kang, 2004). Evaluation in multiple environments should be carried out to develop high performing and stable varieties (Lu’quez et al., 2002, Acquaah 2012). The Interactions between environments and genotypes cause genotypes to perform differently in different environments (Sorensen, 2010).
 
 Heritability indicates if observed differences among genotypes are due to the environment or genetics. The study of variability and heritability is done to determine if a direct selection is possible for traits of interest (Bhagasara et al. 2017). Knowledge of the genetic advance and heritability provide very useful information on variability and the relationships between genotypes traits and their environment. 
@@ -104,7 +138,7 @@ There is a gap in knowledge on the genetics of cassava garri quality: if garri q
 The aim is also to estimate the heredity of garri quality and also to identify the effects of genotype by environment interaction on the garri quality. Information on the heritability will make us decide if Genome-Wide Association Study can be done on the garri quality.
 
 ## Materials and Methods
-200 clones of cassava from the Nextgen CET at Ubiaja were planted at the PYT stage in Otobi and Umudike. These were grown in an alpha lattice design using two replications with 4 checks. And a plot size of 1m x 10m (10 plants per plot). The field will be evaluated at 1, 3, 6, 9, and 12 months after planting for both agronomic and disease traits. Yield data will be collected at harvest. This will include information on the number of tubers, tuber weight, dry matter by specific gravity, and dry matter by oven dry method.
+200 clones of cassava from the Nextgen CET at Ubiaja were planted at the PYT stage in Otobi and Umudike. These were grown in an alpha lattice design using two replications with 4 checks. And a plot size of 1m x 10m (10 plants per plot). The field will be evaluated at 1, 3, 6, 9, and 12 months after planting for both agronomic and disease traits. Yield data will be collected at harvest. This will include information on the number of tubers, weight of tubers per plot, weight of tubers per hectare, dry matter by specific gravity, and dry matter by oven dry method. root color, plant height, plant vigor, disease (Cassava mosaic, cassava bacteria and cassava anthracnose disease).
 
 ## Experiment 2: Physiochemical evaluation of cassava using both the wet chemistry and NIRS for the PYTs in two locations
 
@@ -358,7 +392,6 @@ Particle size	No	Yes	This affects sensory attributes such as mouth feel, texture
 Mash with high starch content gives garri with high particle size (Laya et al., 2018). 
 
 Bulk density	No	Yes	Samples with low bulk density float on top of water and as a result may not soak well in water this may lead it been rejected by consumers (Sanni et al., 2008).
-
 
 
 
